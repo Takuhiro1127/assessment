@@ -1,2 +1,2 @@
 # assessment
-Takuiro1127が作ったあなたのいいところ診断
+Takuiro1127が作った、あなたのいいところ診断
